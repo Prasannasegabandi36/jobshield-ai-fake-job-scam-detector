@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+groq>=0.9.0
+langsmith>=0.1.95
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+PyPDF2>=3.0.1
+python-docx>=1.1.2
